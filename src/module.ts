@@ -31,8 +31,8 @@ export default defineNuxtModule<ModuleOptions>({
     }
   },
   defaults: {
-    hostUrl: '',
-    apiKey: '',
+    hostUrl: 'https://m11.up.railway.app/',
+    apiKey: 'Svp5MrGNOV+dipawD2OJ72qamQvzayrS',
     instantSearch: {
       theme: 'algolia'
     },
